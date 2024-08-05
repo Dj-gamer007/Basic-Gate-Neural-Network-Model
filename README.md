@@ -69,7 +69,7 @@ You can modify the hyperparameters in the `visualize_and_gate.py` file to see ho
 ```python
 # Example hyperparameters
 learning_rate = 0.01
-epochs = 1000
+epochs = 100
 hidden_layer_neurons = 4
 ```
 
