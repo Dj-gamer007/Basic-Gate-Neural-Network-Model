@@ -33,7 +33,7 @@ Ensure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/and-gate-neural-network.git
+git clone https://github.com/Dj-gamer007/and-gate-neural-network.git
 cd and-gate-neural-network
 ```
 
